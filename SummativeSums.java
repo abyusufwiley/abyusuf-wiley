@@ -31,5 +31,6 @@ public class SummativeSums {
         System.out.println("Array 1 has a total of: " + sum);
         System.out.println("Array 1 has a total of: " + sum1);
         System.out.println("Array 1 has a total of: " + sum2);
+        //Time Complexity O(N^3) :(
     }
 }
